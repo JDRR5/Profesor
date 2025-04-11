@@ -11,7 +11,7 @@ namespace Profesor
         private DateTime fechaIngreso;
         private DateTime fechaFinContrato;
 
-        public Contratado() : base()
+        public Contratado()
         {
             SetNombre("Profesor");
             SetApellido("Contratado");
