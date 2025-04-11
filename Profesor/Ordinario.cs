@@ -10,7 +10,7 @@ namespace Profesor
     {
         private int añosServicio;
 
-        public Ordinario() : base()
+        public Ordinario()
         {
             SetNombre("Profesor");
             SetApellido("Ordinario");
